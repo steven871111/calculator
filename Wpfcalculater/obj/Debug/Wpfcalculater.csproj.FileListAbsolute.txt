@@ -1,0 +1,15 @@
+C:\Users\莊峻琳\source\repos\Wpfcalculater\Wpfcalculater\obj\Debug\Wpfcalculater.csprojAssemblyReference.cache
+C:\Users\莊峻琳\source\repos\Wpfcalculater\Wpfcalculater\obj\Debug\MainWindow.g.cs
+C:\Users\莊峻琳\source\repos\Wpfcalculater\Wpfcalculater\obj\Debug\App.g.cs
+C:\Users\莊峻琳\source\repos\Wpfcalculater\Wpfcalculater\obj\Debug\Wpfcalculater_MarkupCompile.cache
+C:\Users\莊峻琳\source\repos\Wpfcalculater\Wpfcalculater\obj\Debug\Wpfcalculater_MarkupCompile.lref
+C:\Users\莊峻琳\source\repos\Wpfcalculater\Wpfcalculater\bin\Debug\Wpfcalculater.exe.config
+C:\Users\莊峻琳\source\repos\Wpfcalculater\Wpfcalculater\bin\Debug\Wpfcalculater.exe
+C:\Users\莊峻琳\source\repos\Wpfcalculater\Wpfcalculater\bin\Debug\Wpfcalculater.pdb
+C:\Users\莊峻琳\source\repos\Wpfcalculater\Wpfcalculater\obj\Debug\MainWindow.baml
+C:\Users\莊峻琳\source\repos\Wpfcalculater\Wpfcalculater\obj\Debug\Wpfcalculater.g.resources
+C:\Users\莊峻琳\source\repos\Wpfcalculater\Wpfcalculater\obj\Debug\Wpfcalculater.Properties.Resources.resources
+C:\Users\莊峻琳\source\repos\Wpfcalculater\Wpfcalculater\obj\Debug\Wpfcalculater.csproj.GenerateResource.cache
+C:\Users\莊峻琳\source\repos\Wpfcalculater\Wpfcalculater\obj\Debug\Wpfcalculater.csproj.CoreCompileInputs.cache
+C:\Users\莊峻琳\source\repos\Wpfcalculater\Wpfcalculater\obj\Debug\Wpfcalculater.exe
+C:\Users\莊峻琳\source\repos\Wpfcalculater\Wpfcalculater\obj\Debug\Wpfcalculater.pdb
